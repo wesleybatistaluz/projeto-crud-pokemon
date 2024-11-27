@@ -1,0 +1,26 @@
+[
+  {
+    "id": "7842f630-c92b-43be-b1fd-0df8db7a632a",
+    "nome": "Venusaur",
+    "descricao": "Pokémon de Planta",
+    "img": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages.wikidexcdn.net%2Fmwuploads%2Fwikidex%2Fthumb%2Fb%2Fbe%2Flatest%2F20160309230456%2FVenusaur.png%2F1200px-Venusaur.png&f=1&nofb=1&ipt=1e37455f3c7dba08c04c4b41a2b2800365a5dc8d37d4dbb52abf6a0e2c588167&ipo=images"
+  },
+  {
+    "id": "9aa95370-5fef-4415-9f1e-023935ca0d73",
+    "nome": "Blastoise",
+    "descricao": "Pokémon de água",
+    "img": "https://cdn.pidgi.net/images/thumb/4/4b/Blastoise_(alt_5)_-_Pokemon_anime.svg/485px-Blastoise_(alt_5)_-_Pokemon_anime.svg.png"
+  },
+  {
+    "id": "4419e35d-7cba-410d-b351-cacb4d401744",
+    "nome": "Pikachu",
+    "descricao": "Pokémon Elétrico",
+    "img": "https://pngimg.com/uploads/pokemon/pokemon_PNG14.png"
+  },
+  {
+    "id": "6dbc95a9-e8f7-4ec0-bcaa-49dd7d504e8f",
+    "nome": "Mew",
+    "descricao": "Pokémon Lendárioo",
+    "img": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/151.png"
+  }
+]
